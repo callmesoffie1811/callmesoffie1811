@@ -12,6 +12,6 @@
 <h1>Hi, I'm Sophie!👋 <br/> <a href="https://www.linkedin.com/in/callmesoffie/">  </h1>
 <h2> 🌱 Education </h2>
 
-- <b> Master of IT at Deakin University </b>
+- <b> Master of IT (Data Science) at Deakin University </b>
 
 - <b> Bachelor of Applied Data Science and International Business at Western Sydney University </b>
